@@ -20,7 +20,7 @@ This Streamlit app predicts emotions from user input text using a Logistic Regre
 - 'Social_Media_Listening_.ipynb' : Full code
 
 ## Deployed On
-[Streamlit Cloud](https://streamlit.io/)
+[Streamlit Cloud](https://social-media-listening-app-zc8pc23z48wngxx9bnq2d6.streamlit.app/)
 
 ---
 
